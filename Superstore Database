@@ -1,4 +1,4 @@
-#This analysis utilized the following Fortune 500 dataset:
+#This project utilizes the following Superstore data:
 
 CREATE TABLE superstore (
     item_id INTEGER PRIMARY KEY,
